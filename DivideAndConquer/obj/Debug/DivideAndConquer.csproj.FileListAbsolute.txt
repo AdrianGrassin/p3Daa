@@ -1,0 +1,6 @@
+G:\Clase\3\DAA\P3\DivideAndConquer\obj\Debug\DivideAndConquer.csproj.AssemblyReference.cache
+G:\Clase\3\DAA\P3\DivideAndConquer\obj\Debug\DivideAndConquer.csproj.CoreCompileInputs.cache
+G:\Clase\3\DAA\P3\DivideAndConquer\bin\Debug\DivideAndConquer.dll
+G:\Clase\3\DAA\P3\DivideAndConquer\bin\Debug\DivideAndConquer.pdb
+G:\Clase\3\DAA\P3\DivideAndConquer\obj\Debug\DivideAndConquer.dll
+G:\Clase\3\DAA\P3\DivideAndConquer\obj\Debug\DivideAndConquer.pdb
